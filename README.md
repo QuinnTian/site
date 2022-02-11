@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<p align="center"><b>Halo</b> [ˈheɪloʊ]，一款现代化的开源博客/CMS系统，值得一试。</p>
+<p align="center"><b>北纬36度</b>导航页</p>
 
 <p align="center">
 <a href="https://github.com/halo-dev/halo/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/halo-dev/halo.svg?style=flat-square" /></a>
