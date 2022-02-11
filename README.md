@@ -5,7 +5,7 @@
     </a>
 </p>
 
-<p align="center"><b>北纬36度</b>--构建个人知识体系</p>
+<p align="center"><b>北纬36度</b></p>构建个人知识体系
 
 <p align="center">
 <br />
