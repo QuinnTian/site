@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://halo.run" target="_blank" rel="noopener noreferrer">
-        <img width="100" src="https://halo.run/logo" alt="Halo logo" />
+    <a href="" target="_blank" rel="noopener noreferrer">
+        <img width="100" src="https://avatars.githubusercontent.com/u/29975541?s=120&v=4" alt="Halo logo" />
     </a>
 </p>
 
