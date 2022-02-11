@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<p align="center"><b>北纬36度</b>导航页</p>
+<p align="center"><b>北纬36度</b>站点导航页-构建个人知识体系</p>
 
 <p align="center">
 <a href="https://github.com/halo-dev/halo/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/halo-dev/halo.svg?style=flat-square" /></a>
