@@ -5,17 +5,17 @@
     </a>
 </p>
 
-<p align="center"><b>北纬36度</b>-构建个人知识体系</p>
+<p align="center"><b>北纬36度</b>--构建个人知识体系</p>
 
 <p align="center">
 <br />
-<a href="https://docs.quinntian.com">文档站</a>
-<a href="https://blog.quinntian.com">博客站</a>
+<a href="https://docs.quinntian.com">文档站</a>丨
+<a href="https://blog.quinntian.com">博客站</a>丨
 <a href="https://github.com/QuinnTian">Github</a>
 
 </p>
 
-------------------------------
+
 
 
 
