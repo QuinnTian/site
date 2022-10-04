@@ -12,6 +12,7 @@
 <br />
 <a href="https://docs.quinntian.com">文档站</a>丨
 <a href="https://blog.quinntian.com">博客站</a>丨
+<a href="https://halo.quinntian.com">博客站（旧）</a>丨
 <a href="https://github.com/QuinnTian">Github</a>
 
 </p>
